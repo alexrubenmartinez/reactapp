@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "'Jetbrains Mono'",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 28,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+    
+}
